@@ -1,3 +1,5 @@
+# Abdulrazzak Jouhar 2020
+
 from tkinter import *
 import time
 import os
